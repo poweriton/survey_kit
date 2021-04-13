@@ -15,7 +15,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^6.1.1
-  intl: ^0.16.1
+  intl: ^0.17.0
   lottie: ^0.7.0+1
   uuid: ^2.2.2
 
